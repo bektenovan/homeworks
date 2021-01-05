@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d605eeaa-7042-4ead-a049-d803be066756" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ball.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ball/company/com/Ball.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ball/company/com/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ball/company/com/Phone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ball/company/com/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/company/com/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/company/com/Phone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/company/com/Student.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1lOMP5VYijT4F29r7YwvVoOu7QW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="company.com.Main" />
+      <module name="Ball" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d605eeaa-7042-4ead-a049-d803be066756" name="Default Changelist" comment="" />
+      <created>1607463669946</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607463669946</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="842" y="184" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1609703480820">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="842" y="184" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.814@0.23.1440.814" timestamp="1609703480820" />
+    <state width="788" height="212" key="GridCell.Tab.0.bottom" timestamp="1609717685003">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1609714161630" />
+    <state width="394" height="210" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1609705144876" />
+    <state width="788" height="212" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1609717685003" />
+    <state width="788" height="212" key="GridCell.Tab.0.center" timestamp="1609717685002">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1609714161629" />
+    <state width="394" height="210" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1609705144876" />
+    <state width="788" height="212" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1609717685002" />
+    <state width="788" height="212" key="GridCell.Tab.0.left" timestamp="1609717685001">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1609714161628" />
+    <state width="394" height="210" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1609705144876" />
+    <state width="788" height="212" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1609717685001" />
+    <state width="788" height="212" key="GridCell.Tab.0.right" timestamp="1609717685003">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1398" height="212" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1609714161630" />
+    <state width="394" height="210" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1609705144876" />
+    <state width="788" height="212" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1609717685003" />
+    <state x="690" y="23" width="701" height="755" key="new project wizard" timestamp="1609707032695">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="690" y="23" width="701" height="755" key="new project wizard/0.23.1440.816@0.23.1440.816" timestamp="1609707032695" />
+    <state x="176" y="52" key="new project wizard/0.23.1440.821@0.23.1440.821" timestamp="1608730098868" />
+  </component>
+</project>
